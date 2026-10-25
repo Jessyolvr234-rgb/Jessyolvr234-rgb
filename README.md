@@ -1,5 +1,4 @@
-
-# 👩🏻‍💻 Jessica Maria
+# 👩🏻‍💻 Jéssica Maria
 
 ### Desenvolvedora Full Stack em formação | Estudante de ADS
 
